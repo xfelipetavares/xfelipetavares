@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-  https://github-readme-stats.vercel.app/api?username=xfelipetavares&show_icons=true&theme=dracula
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfelipetavares&show_icons=true&theme=dracula)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xfelipetavares&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
