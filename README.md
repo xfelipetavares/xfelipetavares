@@ -17,13 +17,7 @@
 
  
 
-## About me
-<p>
-  📫 How to reach me: <a href='mailto:xfelipetavares@gmail.com'>xfelipetavares@gmail.com</a>
-</p>
 
-<a href="https://www.linkedin.com/in/xfelipetavares/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
- <br><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""> Felipe Tavares#4268
 
 
 
@@ -56,6 +50,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="">
 </p><br>
+
+## Contact me
+<p>
+  📫 How to reach me: <a href='mailto:xfelipetavares@gmail.com'>xfelipetavares@gmail.com</a>
+</p>
+
+<a href="https://www.linkedin.com/in/xfelipetavares/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+ <br><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""> Felipe Tavares#4268
 
 
 
