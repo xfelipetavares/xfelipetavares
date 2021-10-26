@@ -47,8 +47,8 @@
 </p>
 
 <p align='center'>
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=xfelipetavares&show_icons=true&theme=dracula&count_private=true" alt="">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfelipetavares&layout=compact&theme=dracula&count_private=true" alt="">
+  <a href="#"><img width="420px" src="https://github-readme-stats.vercel.app/api?username=xfelipetavares&show_icons=true&theme=dracula&count_private=true" alt=""></a>
+  <a href="#"><img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfelipetavares&layout=compact&theme=dracula&count_private=true" alt=""></a>
 </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
