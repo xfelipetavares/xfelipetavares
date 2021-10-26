@@ -23,10 +23,17 @@
 
   <h1 align='center'>My workspace 💻</h1><br>
   <p align='center'>
-  Laptop <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white"/><br>
+  Laptop <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012_15.4''_-999999?style=for-the-badge&logo=apple&logoColor=white"/>
+   <img src="https://img.shields.io/badge/mac%20os_catalina-000000?style=for-the-badge&logo=apple&logoColor=white" />
+   
+   <img src="https://img.shields.io/badge/intel-core%20i7-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+ <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Radeon-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+
+<br>
   Hackintosh
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%204th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201060%206GB-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /><br>
   
