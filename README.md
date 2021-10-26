@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%204th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/nvidia-gtx%201060%206GB-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /><br>
   
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img height="28px" src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" alt="">
