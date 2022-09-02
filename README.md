@@ -11,7 +11,10 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I am studying Computer Science.
+:rocket: I'm studying at Trybe
+
+:books: I'm studying Computer Science.
+
 
 :outbox_tray: 2022 Goals: create a new project and find my first job as dev.
 
