@@ -17,8 +17,8 @@
 <br>
 
 <p align='center'>
-  <a href="#"><img width="480px" src="https://github-readme-stats.vercel.app/api?username=xfelipetavares&show_icons=true&theme=dracula&count_private=true&service=github" alt=""></a>
-  <a href="#"><img width="401px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfelipetavares&layout=compact&theme=dracula&count_private=true&service=github" alt=""></a>
+  <a href="#"><img width="410px" src="https://github-readme-stats.vercel.app/api?username=xfelipetavares&show_icons=true&theme=dracula&count_private=true&service=github" alt=""></a>
+  <a href="#"><img width="344x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfelipetavares&layout=compact&theme=dracula&count_private=true&service=github" alt=""></a>
 </p>
 
 <p align='center'>
@@ -38,6 +38,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/xfelipetavares/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> <strong align="center">xfelipetavares</strong>
+<br>
 <img width="111px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""> <strong align="center">Felipe Tavares#4268</strong>
 
 
