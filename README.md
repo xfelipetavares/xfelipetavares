@@ -15,7 +15,7 @@
 
 :books: I'm studying Computer Science at University FADERGS.
 <br>
-
+<br>
 <p align='center'>
   <a href="#"><img width="410px" src="https://github-readme-stats.vercel.app/api?username=xfelipetavares&show_icons=true&theme=dracula&count_private=true&service=github" alt=""></a>
   <a href="#"><img width="344x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfelipetavares&layout=compact&theme=dracula&count_private=true&service=github" alt=""></a>
