@@ -8,11 +8,9 @@
 <br>
 <br>
 
-:computer: I'm Front-End Developer!
+:computer: I'm Web Developer!
 
-:house_with_garden: I’m from Brazil.
-
-:rocket: I'm studying at Trybe (Full Stack Development).
+:house_with_garden: I’m from Brazil, living in Portugal.
 
 :books: I'm studying Computer Science at University FADERGS.
 
